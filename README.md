@@ -1,5 +1,5 @@
 # Weather-Monitering-System-Using-ESP32-and-think-speak
-ThingSpeak is an Open-Source IoT application and API to store and retrieve data from Hardware devices and Sensors.
+# ThingSpeak is an Open-Source IoT application and API to store and retrieve data from Hardware devices and Sensors.
 It uses HTTP Protocol over the Internet or LAN for its communication. 
 The MATLAB analytics is included to analyze and visualize the data received from your Hardware or Sensor Devices.
 
